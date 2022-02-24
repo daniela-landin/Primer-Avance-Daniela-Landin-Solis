@@ -7,7 +7,6 @@ bool repetir = true;
 string nombre, primer_apellido, segundo_apellido, tratamiento, descripcion;
 
 void main() {
-	string str;
 
 	do {
 		system("cls");
