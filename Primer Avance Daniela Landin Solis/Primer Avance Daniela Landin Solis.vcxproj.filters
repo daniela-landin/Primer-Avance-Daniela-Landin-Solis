@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp">
+    <ClCompile Include="Primer Avance Daniela Landin Solis.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>
