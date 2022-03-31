@@ -1,3 +1,7 @@
-﻿  Source.cpp
-C:\Users\danie\source\repos\Primer Avance Daniela Landin Solis\Primer Avance Daniela Landin Solis\Source.cpp(12,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  Primer Avance Daniela Landin Solis.vcxproj -> C:\Users\danie\source\repos\Primer Avance Daniela Landin Solis\x64\Debug\Primer Avance Daniela Landin Solis.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Primer Avance Daniela Landin Solis.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Proyecto Base Daniela Landin Solis.cpp
+C:\Users\danie\source\repos\Primer Avance Daniela Landin Solis\Primer Avance Daniela Landin Solis\Proyecto Base Daniela Landin Solis.cpp(28,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\danie\source\repos\Primer Avance Daniela Landin Solis\Primer Avance Daniela Landin Solis\Proyecto Base Daniela Landin Solis.cpp(162,32): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\danie\source\repos\Primer Avance Daniela Landin Solis\Primer Avance Daniela Landin Solis\Proyecto Base Daniela Landin Solis.cpp(164,37): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\danie\source\repos\Primer Avance Daniela Landin Solis\Primer Avance Daniela Landin Solis\Proyecto Base Daniela Landin Solis.cpp(165,37): warning C4553: '==': result of expression not used; did you intend '='?
+  Primer Avance Daniela Landin Solis.vcxproj -> C:\Users\danie\source\repos\Primer Avance Daniela Landin Solis\x64\Debug\Proyecto Base Daniela Landin Solis.exe
