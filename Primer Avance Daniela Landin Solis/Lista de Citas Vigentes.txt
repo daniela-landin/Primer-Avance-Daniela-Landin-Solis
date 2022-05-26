@@ -1,0 +1,12 @@
+----------------------------------------------------------- 
+Nombre: Daniela Landin Solis
+ID de cita: 2
+Correo: daniela.landin0000.landin@gmail.com
+Hora: 16:55
+Nombre del tratamiento: Cirugía
+Precio unitario del tratamiento: 350
+Descripción del tratamiento: Cirugía para removar la muela
+Cantidad de tratamiento : 1
+Subtotal 350
+IVA: 56
+Total: 406
